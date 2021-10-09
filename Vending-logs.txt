@@ -1,0 +1,79 @@
+Time of transaction: 2021-09-24T08:22:09.246Z
+Hooray, transaction completed.
+Here is your 2 kajukatli And your change: 
+0 5 Ruppee coin
+2 1 Ruppee coin
+1 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 15.0 Ruppee.
+----------------------------------------------
+Time of transaction: 2021-09-24T08:23:39.951Z
+Hooray, transaction completed.
+Here is your 2 kajukatli And your change: 
+0 5 Ruppee coin
+2 1 Ruppee coin
+1 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 15.0 Ruppee.
+----------------------------------------------
+Time of transaction: 2021-09-24T08:24:45.524Z
+Hooray, transaction completed.
+Here is your 2 kajukatli And your change: 
+0 5 Ruppee coin
+2 1 Ruppee coin
+1 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 15.0 Ruppee.
+----------------------------------------------
+Vending Machine refilled by admin!!
+-------------------------------------
+Time of transaction: 2021-09-24T08:34:48.786Z
+Hooray, transaction completed.
+Here is your 2 kajukatli And your change: 
+0 5 Ruppee coin
+2 1 Ruppee coin
+1 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 15.0 Ruppee.
+----------------------------------------------
+Time of transaction: 2021-09-24T08:38:04.144Z
+Hooray, transaction completed.
+Here is your 5 Rasgulla And your change: 
+7 5 Ruppee coin
+2 1 Ruppee coin
+1 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 50.0 Ruppee.
+----------------------------------------------
+Time of transaction: 2021-09-24T08:40:07.764Z
+Hooray, transaction completed.
+Here is your 5 kheer And your change: 
+1 5 Ruppee coin
+0 1 Ruppee coin
+0 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 10.0 Ruppee.
+----------------------------------------------
+Time of transaction: 2021-09-24T08:40:43.978Z
+Hooray, transaction completed.
+Here is your 1 Rasgulla And your change: 
+1 5 Ruppee coin
+2 1 Ruppee coin
+1 50 Paisa coin
+0 25 Paisa coin
+Enjoy and have a great day ahead
+
+You gave an amount of 10.0 Ruppee.
+----------------------------------------------
